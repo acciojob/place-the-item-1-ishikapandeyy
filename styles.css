@@ -1,2 +1,21 @@
-
+#box1{
+	height:100px;
+	width:100px;
+	background-color:green;
+}
+#box2{
+	height:100px;
+	width:100px;
+	background-color:red;
+}
+#box3{
+	height:100px;
+	width:100px;
+	background-color:blue;
+}
+div{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
 /* Your CSS Code here. */
